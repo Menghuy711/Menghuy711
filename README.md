@@ -26,5 +26,5 @@
 ---
 
 ### 📌 Featured Projects
-- **[Project 1 Name](Link-to-repo):** Brief 1-sentence value proposition (e.g., "Full-stack inventory system built with React, Node.js, and PostgreSQL with JWT auth").
+- **[ML-Studio](https://menghuy711.github.io/ML-Studio-Frontend/):** Brief 1-sentence value proposition (e.g., "Frontend inventory system built with React, Node.js, and  with JWT auth").
 - **[Project 2 Name](Link-to-repo):** Brief 1-sentence value proposition (e.g., "RESTful API microservice containerized with Docker").
