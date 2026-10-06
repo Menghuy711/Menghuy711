@@ -25,7 +25,7 @@ IT Engineering Student @ RUPP | Frontend Focus
 * **ML-Studio** — [Live Application](https://menghuy711.github.io/ML-Studio-Frontend/)  
   Frontend client built with React and modern CSS, emphasizing modular layout design and mobile responsiveness.
 
-### Niset-Stay
+### // Niset-Stay
 [Live Demo](https://menghuy711.github.io/Niset-Stay/) · [Source Code](https://github.com/menghuy711/Niset-Stay)
 - Responsive accommodation discovery platform designed specifically for university students.
 - Built with modular UI components, interactive room/listing previews, and mobile-first layouts.
