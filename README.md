@@ -1,30 +1,38 @@
-# Hi, I'm [Lor Menghuy] 👋
-**Year 3 Information Technology Engineering Student**  
-📍 Phnom Penh, Cambodia | 💼 Actively looking for a Software Engineering / IT Internship
+# Lor Menghuy
+Information Technology Engineering Student · Royal University of Phnom Penh (RUPP)  
+Phnom Penh, Cambodia · [Lormenghuy12@gmail.com](mailto:Lormenghuy12@gmail.com) · [LinkedIn](https://linkedin.com)
+
+Seeking a Frontend Engineering / Web Development Internship (Available 2026/2027)
 
 ---
 
-### 🚀 About Me
-- 🎓 Studying Information Technology Engineering at [Royal University of Phnom Penh (RUPP)] (Expected Graduation: 2028)
-- 💡 Interested in [Frontend Development]
-- 🛠️ Currently building: [Web E-commerce with Telegram Mini App]
-- 📫 How to reach me: [Lormenghuy12@gmail.com]
+## Overview
+
+I am a third-year IT Engineering student at RUPP focusing on frontend web development. I enjoy building responsive interfaces, clean component systems, and integrating web apps with lightweight platforms like Telegram Mini Apps.
+
+- Education: B.S. in Information Technology Engineering, RUPP (Expected 2028)
+- Focus: Frontend Development, Responsive UI, Component Architecture
+- Currently Building: E-Commerce web interface integrated with Telegram Mini Apps
 
 ---
 
-### 💻 Tech Stack & Tools
+## Technical Skills
 
-**Languages:**  
-`JavaScript` `HTML` `CSS` `Python` `Java` `SQL` `C++`
-
-**Frameworks & Libraries:**  
-`React` `Node.js` `Express` `Tailwind CSS`  `Bootstrap` 
-
-**Databases & DevOps:**  
-`PostgreSQL` `Git`
+- Languages: JavaScript (ES6+), HTML5, CSS3, SQL, Python, Java, C++
+- Frontend & Styling: React, Tailwind CSS, Bootstrap, Responsive Design
+- Backend & Databases: Node.js, Express, PostgreSQL
+- Tools: Git, GitHub, REST APIs
 
 ---
 
-### 📌 Featured Projects
-- **[ML-Studio](https://menghuy711.github.io/ML-Studio-Frontend/):** Brief 1-sentence value proposition (e.g., "Frontend inventory system built with React, Node.js, and  with JWT auth").
-- **[Project 2 Name](Link-to-repo):** Brief 1-sentence value proposition (e.g., "RESTful API microservice containerized with Docker").
+## Selected Projects
+
+### ML-Studio
+[Live Demo](https://menghuy711.github.io/ML-Studio-Frontend/) · [Source Code](https://github.com/menghuy711/ML-Studio-Frontend)
+- Responsive web interface focused on clean layout structure and component reusability.
+- Implemented accessible design patterns and optimized assets for fast load times across devices.
+
+### Telegram Mini App E-Commerce
+[Source Code](https://github.com/menghuy711)
+- Interactive web store interface tailored for mobile web views inside the Telegram client.
+- Built dynamic product catalog views and integrated API endpoints for ordering workflows.
